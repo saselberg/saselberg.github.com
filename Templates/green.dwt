@@ -1,0 +1,32 @@
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Scott Selberg's Home Page - </title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+<link href="../green.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23203039-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+<!-- TemplateBeginEditable name="Title" --><h1>Scott Selberg's Home Page</h1><!-- TemplateEndEditable -->
+<hr>
+<!-- TemplateBeginEditable name="Body" -->Body<!-- TemplateEndEditable -->
+<hr>
+<p><a href="mailto:saselberg@gmail.com">Feedback on this page</a><br>
+  Updated on 
+  <!-- #BeginDate format:Am1 -->May 8, 2011<!-- #EndDate -->
+</p>
+</body>
+</html>
